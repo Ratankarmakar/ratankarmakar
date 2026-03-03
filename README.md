@@ -64,11 +64,11 @@ Google Ads • Google Analytics • SEO • A/B Testing • CRO
 
 ## 📊 GitHub Authority
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratankarmakar&show_icons=true&theme=transparent&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0D1117&hide_border=true&cache_seconds=1)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratankarmakar&layout=compact&theme=transparent&title_color=00F7FF&text_color=ffffff&bg_color=0D1117&hide_border=true&cache_seconds=1)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ratankarmakar?label=Followers&style=for-the-badge&color=00F7FF&logo=github&logoColor=ffffff"/>
+  <img src="https://img.shields.io/github/stars/ratankarmakar?label=Stars&style=for-the-badge&color=00F7FF&logo=github&logoColor=ffffff"/>
+  <img src="https://img.shields.io/github/repos/ratankarmakar?label=Repositories&style=for-the-badge&color=00F7FF&logo=github&logoColor=ffffff"/>
+</p>
 
 ---
 
