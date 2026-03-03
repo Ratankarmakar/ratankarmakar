@@ -55,7 +55,20 @@ I build scalable, profitable digital assets.
 ## ⚙️ Tech & Marketing Arsenal
 
 **Development:**  
-HTML • CSS • JavaScript • Wordpress • Shopify  
+<!-- Top Languages / Technologies using Shields.io -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=ffffff"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=ffffff"/>
+</p>
 
 **Marketing & Analytics:**  
 Google Ads • Google Analytics • SEO • A/B Testing • CRO  
