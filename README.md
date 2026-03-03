@@ -74,13 +74,13 @@ Google Ads • Google Analytics • SEO • A/B Testing • CRO
 
 <p align="center">
   <a href="https://linkedin.com/in/ratankarmakar">
-    <img src="https://img.shields.io/badge/LinkedIn-Nil%20Ratan%20Karmakar-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF&labelColor=0D1117&color=0D1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
   </a>
   <a href="https://ratankarmakar.github.io/ratanads/">
-    <img src="https://img.shields.io/badge/Website-Digital%20Growth%20Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F7FF&labelColor=0D1117&color=0D1117" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F7FF" />
   </a>
   <a href="mailto:ratankarmakar32@email.com">
-    <img src="https://img.shields.io/badge/Email-ratankarmakar32@email.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF&labelColor=0D1117&color=0D1117" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" />
   </a>
 </p>
 
