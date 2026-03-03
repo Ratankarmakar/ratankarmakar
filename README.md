@@ -1,15 +1,15 @@
-<!-- ================= DARK NEON LUXURY VERSION ================= -->
+<!-- ================= ULTRA PREMIUM DARK NEON VERSION ================= -->
 
 <h1 align="center">
-  ⚜️ Nil Ratan Karmakar | Digital Growth Architect ⚜️
+  ⚡ <span style="color:#00F7FF">Nil Ratan Karmakar</span> | Digital Growth Architect ⚡
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Google+Ads+Performance+Specialist;Web+Developer+%26+Conversion+Engineer;Affiliate+Marketing+Strategist;Building+High-ROI+Digital+Assets;Performance.+Precision.+Profitability." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=%3Cspan+style='color%3A%2300F7FF'%3EBossn%3C%2Fspan%3E+%7C+Digital+Growth+Architect;Google+Ads+Performance+Specialist;Web+Developer+%26+Conversion+Engineer;Affiliate+Marketing+Strategist;Building+High-ROI+Digital+Assets;Always+Learner+%26+Performance+Focused" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=FFD700&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ratankarmakar&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
 
 ---
@@ -18,13 +18,14 @@
 
 I design and scale **high-performance digital ecosystems** powered by:
 
-- Advanced **Google Ads strategy**
-- Conversion-optimized web systems
-- Automated affiliate revenue structures
-- Data-backed growth engineering
+- Advanced **Google Ads strategy**  
+- Conversion-optimized web systems  
+- Automated affiliate revenue structures  
+- Data-backed growth engineering  
 
 I don’t chase trends.  
-I build scalable, profitable digital assets.
+I build scalable, profitable digital assets.  
+💡 **Always Learner** — continuously growing, experimenting, and optimizing.
 
 ---
 
@@ -41,13 +42,13 @@ I build scalable, profitable digital assets.
 
 ## 🧠 Core Expertise
 
-- Google Ads (Search, Display, Performance Max)
-- Advanced Conversion Tracking
-- Funnel Architecture
-- High-Converting Landing Pages
-- Affiliate System Design
-- SaaS & Automation Projects
-- Long-Term Digital Investment Strategy
+- Google Ads (Search, Display, Performance Max)  
+- Advanced Conversion Tracking  
+- Funnel Architecture  
+- High-Converting Landing Pages  
+- Affiliate System Design  
+- SaaS & Automation Projects  
+- Long-Term Digital Investment Strategy  
 
 ---
 
@@ -63,9 +64,9 @@ Google Ads • Google Analytics • SEO • A/B Testing • CRO
 
 ## 📊 GitHub Authority
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratankarmakar&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratankarmakar&show_icons=true&theme=tokyonight&title_color=00F7FF&icon_color=00F7FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratankarmakar&layout=compact&theme=tokyonight&title_color=FFD700)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratankarmakar&layout=compact&theme=tokyonight&title_color=00F7FF)
 
 ---
 
@@ -73,13 +74,13 @@ Google Ads • Google Analytics • SEO • A/B Testing • CRO
 
 <p align="center">
   <a href="https://linkedin.com/in/ratankarmakar">
-    <img src="https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&logo=linkedin&logoColor=gold" />
+    <img src="https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
   </a>
   <a href="https://ratankarmakar.github.io/ratanads/">
-    <img src="https://img.shields.io/badge/Website-Black?style=for-the-badge&logo=google-chrome&logoColor=gold" />
+    <img src="https://img.shields.io/badge/Website-Black?style=for-the-badge&logo=google-chrome&logoColor=00F7FF" />
   </a>
   <a href="mailto:ratankarmakar32@email.com">
-    <img src="https://img.shields.io/badge/Email-Black?style=for-the-badge&logo=gmail&logoColor=gold" />
+    <img src="https://img.shields.io/badge/Email-Black?style=for-the-badge&logo=gmail&logoColor=00F7FF" />
   </a>
 </p>
 
@@ -94,10 +95,11 @@ If you're looking for:
 - Scalable Affiliate Infrastructure  
 - Long-Term Growth Strategy  
 
-Let’s build something elite.
+Let’s build something elite.  
+💡 **Always Lerner mindset included** – growth never stops.
 
 ---
 
 <p align="center">
-  ⚜️ Luxury Strategy. Elite Execution. Measurable Results. ⚜️
+  ⚡ Tech. Marketing. Scale. Always Learner. ⚡
 </p>
