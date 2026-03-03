@@ -71,7 +71,18 @@ I build scalable, profitable digital assets.
 </p>
 
 **Marketing & Analytics:**  
-Google Ads • Google Analytics • SEO • A/B Testing • CRO  
+<!-- Marketing & Optimization Stack using Shields.io -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Google Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=ffffff"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google Analytics-F9AB00?style=for-the-badge&logo=google-analytics&logoColor=ffffff"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SEO-FF6D00?style=for-the-badge&logo=searchengineland&logoColor=ffffff"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/A/B Testing-00C853?style=for-the-badge&logo=adobe&logoColor=ffffff"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CRO-00B0FF?style=for-the-badge&logo=hotjar&logoColor=ffffff"/>
+</p>
 
 ---
 
