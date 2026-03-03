@@ -64,9 +64,9 @@ Google Ads • Google Analytics • SEO • A/B Testing • CRO
 
 ## 📊 GitHub Authority
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratankarmakar&show_icons=true&theme=tokyonight&title_color=00F7FF&icon_color=00F7FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratankarmakar&show_icons=true&theme=tokyonight&title_color=ff0000&icon_color=ff0000&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratankarmakar&layout=compact&theme=tokyonight&title_color=00F7FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratankarmakar&layout=compact&theme=tokyonight&title_color=ff0000&text_color=ffffff)
 
 ---
 
