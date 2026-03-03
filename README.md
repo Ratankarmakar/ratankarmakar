@@ -64,9 +64,9 @@ Google Ads • Google Analytics • SEO • A/B Testing • CRO
 
 ## 📊 GitHub Authority
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratankarmakar&show_icons=true&theme=transparent&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratankarmakar&show_icons=true&theme=transparent&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=1a8cff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratankarmakar&layout=compact&theme=transparent&title_color=ff0000&text_color=ffffff&bg_color=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratankarmakar&layout=compact&theme=transparent&title_color=ff0000&text_color=ffffff&bg_color=1a8cff)
 
 ---
 
@@ -80,7 +80,7 @@ Google Ads • Google Analytics • SEO • A/B Testing • CRO
     <img src="https://img.shields.io/badge/Website-Black?style=for-the-badge&logo=google-chrome&logoColor=1a8cff" />
   </a>
   <a href="mailto:ratankarmakar32@email.com">
-    <img src="https://img.shields.io/badge/Email-Black?style=for-the-badge&logo=gmail&logoColor=#1a8cff" />
+    <img src="https://img.shields.io/badge/Email-Black?style=for-the-badge&logo=gmail&logoColor=1a8cff" />
   </a>
 </p>
 
