@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&fontWeight=bold&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=FF0000&lines=Nil+Ratan+Karmakar+%7C+Digital+Growth+Architect;Google+Ads+Performance+Specialist;Web+Developer+%26+Conversion+Engineer;Affiliate+Marketing+Strategist;Building+High-ROI+Digital+Assets;Always+Learner+%26+Performance+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&fontWeight=bold&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=F5F5F5&lines=Nil+Ratan+Karmakar+%7C+Digital+Growth+Architect;Google+Ads+Performance+Specialist;Web+Developer+%26+Conversion+Engineer;Affiliate+Marketing+Strategist;Building+High-ROI+Digital+Assets;Always+Learner+%26+Performance+Focused" />
 </p>
 
 <p align="center">
