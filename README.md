@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ratankarmakar&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ratankarmakar&label=Profile%20Views&color=FF0000&style=for-the-badge" />
 </p>
 
 ---
