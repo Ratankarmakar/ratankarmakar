@@ -128,5 +128,14 @@ Let’s build something elite.
 
 
 <p align="center">
-  ⚡ Tech. Marketing. Scale. Always Learner. ⚡
+  <!-- Tagline Row with Different Styles & Colors -->
+<p align="center">
+   <img src="https://img.shields.io/badge/Marketer-F9AB00?style=for-the-badge&logoColor=ffffff"/>
+     &nbsp;
+  <img src="https://img.shields.io/badge/innovator-00C853?style=for-the-badge&logoColor=ffffff"/>
+  &nbsp;
+   <img src="https://img.shields.io/badge/investor-DB4437?style=for-the-badge&logoColor=ffffff"/>
+     &nbsp;
+  <img src="https://img.shields.io/badge/Always_Learner⚡-00B0FF?style=for-the-badge&logoColor=ffffff"/>
+</p>
 </p>
