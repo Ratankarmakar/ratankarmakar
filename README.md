@@ -68,6 +68,8 @@ I build scalable, profitable digital assets.
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=ffffff"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=ffffff"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/>
 </p>
 
 **Marketing & Analytics:**  
